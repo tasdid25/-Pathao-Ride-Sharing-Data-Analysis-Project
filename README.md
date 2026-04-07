@@ -226,10 +226,9 @@ pathao-data-analysis/
 
 ## 👤 Author
 
-**[Your Name]**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
+**[Tasdid Hasnat]**
+- 📧 Email: tasdidnirzor@gmail.com
+- 🐙 GitHub: [github.com/your-username](https://github.com/tasdid25)
 
 ---
 
